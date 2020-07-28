@@ -1,0 +1,17 @@
+.formInput {
+  display: block;
+  margin-left: 100px;
+  margin-bottom: 15px;
+  height: 40px;
+  width: 250px;
+  border: bolt;
+}
+
+.btn {
+  margin-left: 100px;
+  height: 40px;
+  width: 100px;
+  background-color: rgb(54, 23, 194);
+  color: white;
+  border: none;
+}

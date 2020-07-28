@@ -1,0 +1,25 @@
+.pageList {
+  font-size: 30px;
+  font-style: bolt;
+  list-style: none;
+  padding-left: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pageListItem {
+  margin-bottom: 25px;
+}
+
+.pageList a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: rgba(0, 0, 3, 0.644);
+  text-decoration: blink;
+}
+
+.active {
+  background-color: rgb(33, 199, 69)  ;
+  color: white;
+  font-style: italic;
+  transition: background-color 1s cubic-bezier(0, 0, 1, 1) 500ms;
+}
